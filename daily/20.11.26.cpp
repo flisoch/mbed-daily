@@ -3,7 +3,7 @@
 
 
 // when button pressed, it "turns on" device and LED is on, when pressed again, it "turns off" device and LED blinks 3 times and eventually is off
-int main_20_11_26()
+int main()
 {   
     DigitalIn button(USER_BUTTON);
     DigitalOut led(LED1);

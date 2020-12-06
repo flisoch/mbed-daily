@@ -5,3 +5,7 @@ projectfiles
 mbed-os
 BUILD
 
+BME280
+mbed_opt3001
+LSM6DS3
+mbed-rtos

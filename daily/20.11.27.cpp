@@ -3,7 +3,7 @@
  
 // when button pressed, timer starts counting how much time it takes to toggle the led and print message and "unpresses" button
 
-int main_20_11_27()
+int main()
 {
     DigitalIn button(BUTTON1, PullDown);
     DigitalOut led(LED1);

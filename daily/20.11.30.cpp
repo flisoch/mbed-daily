@@ -6,7 +6,7 @@
 
 
 
-int main_20_11_30()
+int main()
 {   
     DigitalIn button(BUTTON1, PullDown);
     DigitalOut led(LED1);

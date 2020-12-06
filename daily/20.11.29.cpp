@@ -4,7 +4,7 @@
 // password input imitation with 1 button. Long press to start inserting new digit, short press to increase current digit. In this version there is no counting yet.
 
 
-int main_20_11_29()
+int main()
 {   
     DigitalIn button(BUTTON1, PullDown);
     DigitalOut led(LED1);
